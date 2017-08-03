@@ -1,0 +1,34 @@
+03.08.2017 16:50:27 Proccessed GET request with SimpleModels db
+03.08.2017 16:50:56 Proccessed POST request. SimpleModel with name=Lenina27, NumberOfHomemates=0, decription = 0 was successfully created
+03.08.2017 16:51:01 Proccessed GET request with SimpleModels db
+03.08.2017 17:22:51 GET request to Houses db
+03.08.2017 17:23:32 GET request returned House with id=1
+03.08.2017 17:24:02 DELETE request successfully deleted House with id=1
+03.08.2017 17:24:16 GET request returned BadRequest
+03.08.2017 17:24:21 GET request to Houses db
+/n/n
+03.08.2017 17:26:40 GET request to Houses db
+
+
+
+03.08.2017 17:27:39 GET request to Houses db
+
+
+
+03.08.2017 17:56:57 GET request to Houses db
+
+
+
+03.08.2017 18:05:53 GET request to Houses db
+
+
+
+03.08.2017 18:09:58 GET request to Houses db
+
+
+
+03.08.2017 18:22:15 GET request to Houses db
+
+
+
+03.08.2017 18:26:42 GET request to Houses db

@@ -1,0 +1,18 @@
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.deps.json
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.runtimeconfig.json
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.runtimeconfig.dev.json
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.dll
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.csprojResolveAssemblyReference.cache
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.AssemblyInfo.cs
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.pdb
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.dll
+c:\users\хоменко илья\documents\visual studio 2017\Projects\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.pdb
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.deps.json
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.runtimeconfig.json
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.runtimeconfig.dev.json
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.dll
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\bin\Debug\netcoreapp1.1\BinaryCoreSample.pdb
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.csprojResolveAssemblyReference.cache
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.AssemblyInfo.cs
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.dll
+C:\Users\Dana\Desktop\BinaryCoreSample\BinaryCoreSample\obj\Debug\netcoreapp1.1\BinaryCoreSample.pdb
